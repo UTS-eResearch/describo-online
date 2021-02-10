@@ -1,3 +1,5 @@
+# Development of this application has moved to [https://github.com/Arkisto-Platform/describo-online](https://github.com/Arkisto-Platform/describo-online).
+
 This is the source code for the describo-online application.
 
 - [Before you start up the development environment](#before-you-start-up-the-development-environment)
